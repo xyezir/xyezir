@@ -18,6 +18,11 @@
   <img alt="Gradle" src="https://img.shields.io/static/v1?style=flat&logo=Gradle&label=&message=Gradle&color=767676">
 </p>
 <p align="left">
+  <img alt="React" src="https://img.shields.io/static/v1?style=flat&logo=react&label=&message=React&color=767676">
+  <img alt="Angular" src="https://img.shields.io/static/v1?style=flat&logo=angular&label=&message=Angular&color=767676">
+  <img alt="Vue" src="https://img.shields.io/static/v1?style=flat&logo=vue&label=&message=Vue&color=767676">
+</p>
+<p align="left">
   <img alt="Javascript" src="https://img.shields.io/static/v1?style=flat&logo=javascript&label=&message=JavaScript&color=767676">
   <img alt="Java" src="https://img.shields.io/static/v1?style=flat&logo=Java&label=&message=Java&color=767676">
   <img alt="PHP" src="https://img.shields.io/static/v1?style=flat&logo=PHP&label=&message=PHP&color=767676">
