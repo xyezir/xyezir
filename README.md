@@ -20,7 +20,7 @@
 <p align="left">
   <img alt="React" src="https://img.shields.io/static/v1?style=flat&logo=react&label=&message=React&color=767676">
   <img alt="Angular" src="https://img.shields.io/static/v1?style=flat&logo=angular&label=&message=Angular&color=767676">
-  <img alt="Vue" src="https://img.shields.io/static/v1?style=flat&logo=vue&label=&message=Vue&color=767676">
+  <img alt="Vue" src="https://img.shields.io/static/v1?style=flat&logo=vue.js&label=&message=Vue&color=767676">
 </p>
 <p align="left">
   <img alt="Javascript" src="https://img.shields.io/static/v1?style=flat&logo=javascript&label=&message=JavaScript&color=767676">
