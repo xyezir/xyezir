@@ -38,6 +38,14 @@
   <img alt="Redis" src="https://img.shields.io/static/v1?style=flat&logo=Redis&label=&message=Redis&color=767676">
 </p>
 
+<p align="left">
+  <img alt="OS X" src="https://img.shields.io/static/v1?style=flat&logo=OS X&label=&message=OS X&color=767676">
+  <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=flat&logo=Visual%20Studio%20Code&label=&message=Visual%20Studio%20Code&color=767676">
+  <img alt="Intellij IDEA" src="https://img.shields.io/static/v1?style=flat&logo=Intellij%20IDEA&label=&message=Intellij%20IDEA&color=767676">
+  <img alt="Dash" src="https://img.shields.io/static/v1?style=flat&logo=Dash&label=&message=Dash&color=767676">
+</p>
+
+
 ### Contacts
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yechunan/)
 ![Wechat](https://img.shields.io/badge/-644468-green?style=flat&logo=Wechat&logoColor=white)
