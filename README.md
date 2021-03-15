@@ -39,7 +39,7 @@
 </p>
 
 <p align="left">
-  <img alt="Max OS" src="https://img.shields.io/static/v1?style=flat&logo=maxos&label=&message=Max OS&color=767676">
+  <img alt="Mac OS" src="https://img.shields.io/static/v1?style=flat&logo=macOS&label=&message=macOS&color=767676">
   <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=flat&logo=Visual%20Studio%20Code&label=&message=Visual%20Studio%20Code&color=767676">
   <img alt="Intellij IDEA" src="https://img.shields.io/static/v1?style=flat&logo=Intellij%20IDEA&label=&message=Intellij%20IDEA&color=767676">
   <img alt="Dash" src="https://img.shields.io/static/v1?style=flat&logo=Dash&label=&message=Dash&color=767676">
