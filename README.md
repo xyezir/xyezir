@@ -2,11 +2,14 @@
 
 - 我是一位热爱学习，研究和分享不同工具、技术和思路的 Full Stack 工程师。
 ### Github State
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xyezir&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-<a href="https://github.com/xyezir">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyezir" />
-</a>
+<p align="left">
+  <img vet src="https://github-readme-stats.vercel.app/api?username=xyezir&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyezir" />
+</p>
 
+### Stack
 <p align="left">
   <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
   <img alt="Docker" src="https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=767676">
