@@ -1,6 +1,6 @@
-### Hi there, I am xyezir ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
+### Hi，我是开宠物店的码农工程师 ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
 
-- 我是一位热爱学习，研究和分享不同工具、技术和思路的 Full Stack 工程师。
+- 我热爱学习，研究和分享不同工具、技术和思路。
 ### Github State
 <p align="left">
   <img vet src="https://github-readme-stats.vercel.app/api?username=xyezir&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
