@@ -27,7 +27,8 @@
 <p align="left">
   <img alt="Javascript" src="https://img.shields.io/static/v1?style=flat&logo=javascript&label=&message=JavaScript&color=767676">
   <img alt="Node.js" src="https://img.shields.io/static/v1?style=flat&logo=Node.js&label=&message=Node.js&color=767676">
-  <img alt="Java" src="https://img.shields.io/static/v1?style=flat&logo=Java&label=&message=Java&color=767676">
+  <img alt="Java" src="https://img.shields.io/static/v1?style=flat&logo=JAVA&label=&message=Java&color=767676">
+  <img alt="Go" src="https://img.shields.io/static/v1?style=flat&logo=GO&label=&message=Golang&color=767676">
   <img alt="PHP" src="https://img.shields.io/static/v1?style=flat&logo=PHP&label=&message=PHP&color=767676">
 </p>
 <p align="left">
